@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding:0;
+	font-family: 'Comfortaa', cursive;
+	background: #B5DEDE;
+}
+.logo{
+	width: 125px;
+}
+
+header{
+	background: #D9E1C7;
+}
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+a{
+	text-decoration: none;
+	margin-right: 1%;
+}
+.card{
+	width: 20%;
+	height:200px;
+	margin-left: 4%;
+	margin-top: 1%;
+	border-radius: 10px;
+	display: inline-block;
+}
+footer{
+	background: #EAC7D1;
+	height: 50px;
+	padding-top: 55px;
+	padding-left: 1%;
+}
+.button{
+	width: 15%;
+	margin-bottom: 1%;
+}
+.button:hover{
+	background-color: yellow;
+}
+.imgcard{
+	width: 90%;
+	margin-left: 4%;
+	margin-top: 1%;
+	border-radius: 10px;
+}
