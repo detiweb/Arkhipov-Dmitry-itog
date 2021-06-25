@@ -46,3 +46,11 @@ footer{
 	margin-top: 1%;
 	border-radius: 10px;
 }
+.card2{
+	border: 5px solid darkcyan;
+	width: 30%;
+	margin-left: 20%;
+	background: white;
+}
+
+
